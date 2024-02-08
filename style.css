@@ -49,11 +49,9 @@ nav {
 
 main {
     max-width: 100%;
-    height: 50em;
+    height: auto;
     background-color: #779882;
-    
-    
-}
+    }
 
 main img {
     width: 100%;
@@ -71,6 +69,12 @@ h2 {
     font-size: 27px;
     font-weight: lighter;
     margin-top: 0;
+}
+
+div {
+    background-color: #F3F4EF;
+    color: #3C3C3C;
+    font-size: 40px;
 }
 
 footer {
